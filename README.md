@@ -41,6 +41,6 @@ In this Project, we will use the Audio method from JavaScript Library.
 <!-- CONTACT -->
 # Contact
 
-Name - Shivank Kapur - shivankkapur2004@example.com
+Name: Shivank Kapur - shivankkapur2004@example.com
 
 Project Link: https://shivankk26.github.io/The-Drum-Kit/
