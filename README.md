@@ -25,7 +25,7 @@ The Tech Stacks used are:
 <!-- GETTING STARTED -->
 # Getting Started
 
-To get started, download the given images of various Drum Tools and the Sounds produced by each one of them.
+To get started, download the given images of various Drum Tools and the Sounds produced by each one of them. After that create the HTML, CSS and JavaScript files to begin.
 
 ## Installation
 
@@ -41,6 +41,6 @@ In this Project, we will use the Audio method from JavaScript Library.
 <!-- CONTACT -->
 # Contact
 
-Name: Shivank Kapur - shivankkapur2004@example.com
+Name: Shivank Kapur - shivankkapur2004@gmail.com
 
 Project Link: https://shivankk26.github.io/The-Drum-Kit/
